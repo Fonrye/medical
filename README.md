@@ -58,3 +58,5 @@ The main goals of this project are:
 (3) The system provides a chronic disease reimbursement function to facilitate the online processing of chronic disease reimbursement at the rural cooperative offices of towns and villages.
 (4) The system provides a chronic disease reimbursement HIS interface, which can be connected to a third-party HIS system to realize real-time settlement of chronic disease reimbursement.
 
+![内容自填](https://github.com/Fonrye/medical/blob/master/ddd.png)
+![内容自填](https://github.com/Fonrye/medical/blob/master/ss.png)
